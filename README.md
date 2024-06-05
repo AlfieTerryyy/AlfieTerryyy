@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing stupid stuff and coding in html
 - 🌱 I’m currently learning Html/pythom
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email me at alfie.terry1@putlook.com
+- 📫 How to reach me email me at alfie.terry1@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im boring!
 
