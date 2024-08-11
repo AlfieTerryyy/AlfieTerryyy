@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlfieTerryyy
 - 👀 I’m interested in doing stupid stuff and coding in html
-- 🌱 I’m currently learning Html/pythom
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me email me at alfie.terry1@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im boring!
